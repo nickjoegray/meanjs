@@ -34,7 +34,7 @@ function($scope, posts){
 			link: $scope.link,
 			comments: [
 				{author: 'Nick', body: 'Cool post!', upvotes: 0},
-    		{author: 'Ed', body: 'Great idea but everything is wrong!', upvotes: 0}
+    			{author: 'Ed', body: 'Great idea but everything is wrong!', upvotes: 0}
 			]
 		});
 		$scope.title = '';	
